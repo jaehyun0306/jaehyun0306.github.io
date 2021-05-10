@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "2017250033 이재현 머신러닝 과제"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "이재현"
 description              : "An amazing website."
 url                      : "https://jaehyun0306.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
