@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 
 title:  "2017250033 이재현_머신러닝 과제 5"
 ---
 
