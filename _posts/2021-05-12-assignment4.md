@@ -1214,9 +1214,7 @@ Image.open("day_night/train/day/day120.jpg")
 
 
 
-
-    
-![png](output_120_0.png)
+(https://github.com/jaehyun0306/handson/blob/master/output_120_0.png)
     
 
 
