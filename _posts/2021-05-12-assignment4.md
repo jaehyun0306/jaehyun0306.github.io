@@ -1228,7 +1228,7 @@ Image.open("day_night/train/night/night120.jpg")
 
 
     
-![png](output_121_0.png)
+![output_121_0.png](https://raw.githubusercontent.com/jaehyun0306/handson/master/output_121_0.png)
     
 
 
@@ -1276,7 +1276,7 @@ plt.title("day and night in GrayScale")
 
 
     
-![png](output_123_2.png)
+![output_123_2.png](https://raw.githubusercontent.com/jaehyun0306/handson/master/output_123_2.png)
     
 
 
@@ -1521,7 +1521,7 @@ logistic_regression(x_train, y_train, x_test, y_test,learning_rate = 0.01, num_i
 
 
     
-![png](output_141_1.png)
+![output_141_1.png](https://raw.githubusercontent.com/jaehyun0306/handson/master/output_141_1.png)
     
 
 
@@ -1678,7 +1678,7 @@ Image.open("indoor_outdoor/train/indoor/indoor1.jpg")
 
 
     
-![png](output_163_0.png)
+![output_163_0.png](https://raw.githubusercontent.com/jaehyun0306/handson/master/output_163_0.png)
     
 
 
@@ -1692,7 +1692,7 @@ Image.open("indoor_outdoor/train/outdoor/outdoor1.jpg")
 
 
     
-![png](output_164_0.png)
+![output_164_0.png](https://raw.githubusercontent.com/jaehyun0306/handson/master/output_164_0.png)
     
 
 
@@ -1736,7 +1736,7 @@ plt.title("indoor and outdoor in GrayScale")
 
 
     
-![png](output_166_2.png)
+![output_166_2.png](https://raw.githubusercontent.com/jaehyun0306/handson/master/output_166_2.png)
     
 
 
@@ -1967,7 +1967,7 @@ logistic_regression(x_train, y_train, x_test, y_test,learning_rate = 0.01, num_i
 
 
     
-![png](output_181_1.png)
+![output_181_1.png](https://raw.githubusercontent.com/jaehyun0306/handson/master/output_181_1.png)
     
 
 
