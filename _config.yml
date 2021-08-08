@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "2017250033 이재현 머신러닝 과제"
+title                    : "이재현 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "이재현"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "이재현"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "과제"
+  bio              : "블로그"
   location         : "Somewhere"
   email            :
   links:
